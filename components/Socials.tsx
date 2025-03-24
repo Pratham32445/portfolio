@@ -28,7 +28,7 @@ const socialLinks = [
  
 const Socials = () => {
   return (
-    <div className="mt-10">
+    <div className="mt-28">
       <div className="flex justify-center items-center gap-4">
         {socialLinks.map(({ link, icon, name },idx) => (
           <Link href={link} key={idx}>
