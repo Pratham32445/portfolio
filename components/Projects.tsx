@@ -6,19 +6,21 @@ const projectsData = [
     name: "Generate.AI",
     description:
       "Generate your ai images by training your model,generate images by our predefined packs so you dont have to write your custom prompts",
-    technologies: ["NextJs", "Postgresql", "Typescript", "Fal.ai", "AWS"],
-    githubRepo: "https://github.com/Pratham32445/portfolio",
+    technologies: ["NextJs", "Postgresql", "Typescript", "Fal.ai", "AWS","Docker","Tailwind css","prisma"],
+    githubRepo: "https://github.com/Pratham32445/Generate-AI",
     Livelink: "https://generate.ai.code10x.online",
+    video : "/peetcode.mp4",
     projectID: 1,
   },
   {
     name: "Peetcode",
     description:
-      "Generate your ai images by training your model,generate images by our predefined packs so you dont have to write your custom prompts",
-    technologies: ["NextJs", "Postgresql", "Typescript", "Fal.ai", "AWS"],
-    githubRepo: "https://github.com/Pratham32445/portfolio",
-    Livelink: "https://generate.ai.code10x.online",
+      "Platform where you can solve Premium coding Problems completely for free with ai assistant,system design,HLD,LLD for completely free",
+      technologies: ["NextJs", "Postgresql", "Typescript", "Judge0", "AWS","Docker","Tailwind css","prisma","websocket","webrtc"],
+    githubRepo: "https://github.com/Pratham32445/peetcode-landing-deploy",
+    Livelink: "peetcode-landing-deploy.vercel.app",
     projectID: 2,
+    video : ""
   },
 ];
 
