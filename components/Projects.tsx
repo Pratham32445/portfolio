@@ -9,7 +9,7 @@ const projectsData = [
     technologies: ["NextJs", "Postgresql", "Typescript", "Fal.ai", "AWS","Docker","Tailwind css","prisma"],
     githubRepo: "https://github.com/Pratham32445/Generate-AI",
     Livelink: "https://generate.ai.code10x.online",
-    video : "/peetcode.mp4",
+    video : "",
     projectID: 1,
   },
   {
@@ -20,7 +20,7 @@ const projectsData = [
     githubRepo: "https://github.com/Pratham32445/peetcode-landing-deploy",
     Livelink: "peetcode-landing-deploy.vercel.app",
     projectID: 2,
-    video : ""
+    video : "/peetcode.mp4"
   },
 ];
 
