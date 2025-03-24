@@ -9,7 +9,7 @@ const projectsData = [
     technologies: ["NextJs", "Postgresql", "Typescript", "Fal.ai", "AWS","Docker","Tailwind css","prisma"],
     githubRepo: "https://github.com/Pratham32445/Generate-AI",
     Livelink: "https://generate.ai.code10x.online",
-    video : "",
+    video : "/generate.mp4",
     projectID: 1,
   },
   {
