@@ -6,21 +6,57 @@ const projectsData = [
     name: "Generate.AI",
     description:
       "Generate your ai images by training your model,generate images by our predefined packs so you dont have to write your custom prompts",
-    technologies: ["NextJs", "Postgresql", "Typescript", "Fal.ai", "AWS","Docker","Tailwind css","prisma"],
+    technologies: [
+      "NextJs",
+      "Postgresql",
+      "Typescript",
+      "Fal.ai",
+      "AWS",
+      "Docker",
+      "Tailwind css",
+      "prisma",
+    ],
     githubRepo: "https://github.com/Pratham32445/Generate-AI",
     Livelink: "https://generate.ai.code10x.online",
-    video : "/generate.mp4",
+    video: "/generate.mp4",
     projectID: 1,
   },
   {
     name: "Peetcode",
     description:
       "Platform where you can solve Premium coding Problems completely for free with ai assistant,system design,HLD,LLD for completely free",
-      technologies: ["NextJs", "Postgresql", "Typescript", "Judge0", "AWS","Docker","Tailwind css","prisma","websocket","webrtc"],
+    technologies: [
+      "NextJs",
+      "Postgresql",
+      "Typescript",
+      "Judge0",
+      "AWS",
+      "Docker",
+      "Tailwind css",
+      "prisma",
+      "websocket",
+      "webrtc",
+    ],
     githubRepo: "https://github.com/Pratham32445/peetcode-landing-deploy",
     Livelink: "peetcode-landing-deploy.vercel.app",
     projectID: 2,
-    video : "/peetcode.mp4"
+    video: "/peetcode.mp4",
+  },
+  {
+    name: "Recipt",
+    description:
+      "Plaform where you can generate your github recipt by providing your github username and recieve your Recipt",
+    technologies: [
+      "NextJs",
+      "Github API",
+      "Typescript",
+      "Tailwind css",
+      "Shadcn"
+    ],
+    githubRepo: "https://github.com/Pratham32445/Recipt",
+    Livelink: "https://recipt-three.vercel.app/",
+    projectID: 3,
+    video: "/recipt.mp4",
   },
 ];
 
