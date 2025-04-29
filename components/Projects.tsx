@@ -38,7 +38,7 @@ const projectsData = [
       "webrtc",
     ],
     githubRepo: "https://github.com/Pratham32445/peetcode-landing-deploy",
-    Livelink: "peetcode-landing-deploy.vercel.app",
+    Livelink: "https://peetcode-learn.vercel.app/",
     projectID: 2,
     video: "/peetcode.mp4",
   },
