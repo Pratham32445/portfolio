@@ -9,7 +9,6 @@ import {
 import ReactPlayer from "react-player";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
-import { ArrowUpRight } from "lucide-react";
 import Link from "next/link";
 
 interface ProjectObj {
