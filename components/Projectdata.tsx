@@ -17,7 +17,6 @@ interface ProjectObj {
   description: string;
   technologies: string[];
   githubRepo: string;
-  Livelink: string;
   projectID: number;
   video: string;
 }
@@ -56,12 +55,6 @@ const Projectdata = ({ projectObj }: { projectObj: ProjectObj }) => {
                 height={20}
               />{" "}
               Github
-            </Button>
-          </Link>
-          <Link href={projectObj.Livelink}>
-            <Button className="cursor-pointer">
-              Checkout
-              <ArrowUpRight />
             </Button>
           </Link>
         </div>

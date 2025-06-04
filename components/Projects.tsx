@@ -17,7 +17,6 @@ const projectsData = [
       "prisma",
     ],
     githubRepo: "https://github.com/Pratham32445/Generate-AI",
-    Livelink: "https://generate.ai.code10x.online",
     video: "/generate.mp4",
     projectID: 1,
   },
@@ -38,7 +37,6 @@ const projectsData = [
       "webrtc",
     ],
     githubRepo: "https://github.com/Pratham32445/peetcode-landing-deploy",
-    Livelink: "https://peetcode-learn.vercel.app/",
     projectID: 2,
     video: "/peetcode.mp4",
   },
@@ -54,7 +52,6 @@ const projectsData = [
       "Shadcn"
     ],
     githubRepo: "https://github.com/Pratham32445/Recipt",
-    Livelink: "https://recipt-three.vercel.app/",
     projectID: 3,
     video: "/recipt.mp4",
   },
